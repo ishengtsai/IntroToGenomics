@@ -11,15 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Introduction to lectures <intro>
-   Lecture1 <lec1>
-   Lecture2 <lec2>
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
