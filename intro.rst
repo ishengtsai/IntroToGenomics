@@ -1,15 +1,20 @@
-.. 2015TigpIntroNGS documentation master file, created by
-   sphinx-quickstart on Fri Aug 19 12:31:46 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Comment
+   This is for 
 
-Welcome to 2015TigpIntroNGS's documentation!
-============================================
+Introduction to Next Generation Sequencing (NGS): Data and Analysis
+====================================================================
 
-Contents:
+::
+	次世代定序：理論及方法
 
-.. toctree::
-   :maxdepth: 2
+
+
+
+
+This module aims to cover the backgrounds of next generation sequencing (NGS), and what you can do with it in research. This module will also provides hands-on exercises from real-world scenarios.
+
+
+
 
 
 
