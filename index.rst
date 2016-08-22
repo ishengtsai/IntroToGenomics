@@ -4,26 +4,34 @@
    contain the root `toctree` directive.
 
 
-Introduction to NGS 
-============================================
+Introduction to Next Generation Sequencing (NGS): Data and Analysis
+====================================================================
+
+This is the website that contains the slides for the Intro to NGS lecture taught in NTNU and NTU. All the information relevant to this module will be posted here. 
+
+
+::
+
+	次世代定序：理論及方法
+
+
+
+.. note:: This module will be taught in English
+
+
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   Introduction to lectures <intro>
-   Lecture Slides <lec>
+   Course introduction <intro>
+   Lecture slides <lec>
+   Statistics of the course <stats>
 
 
 
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
