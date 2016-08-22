@@ -12,11 +12,7 @@ This is the website that contains the slides for the Intro to NGS lecture taught
 
 ::
 
-	次世代定序：理論及方法
-
-
-
-.. note:: This module will be taught in English
+	這是在師大還有台大開的 *次世代定序：理論及方法* 課程。所有資訊都可以在這邊找到。
 
 
 
@@ -30,6 +26,10 @@ Contents:
    Statistics of the course <stats>
 
 
+
+
+
+.. note:: This module will be taught in English
 
 
 
