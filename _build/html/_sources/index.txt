@@ -3,7 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 2015TigpIntroNGS's documentation!
+
+Introduction to NGS 
 ============================================
 
 Contents:
@@ -12,8 +13,11 @@ Contents:
    :maxdepth: 2
 
    Introduction to lectures <intro>
-   Lecture1 <lec1>
-   Lecture2 <lec2>
+   Lecture Slides <lec>
+
+
+
+
 
 
 Indices and tables
