@@ -5,8 +5,17 @@ References
 This page contains all the goodies on the internet also relevant to this course. 
 
 
+==============
+Lecture slides
+==============
+
 1. Workshop on all kinds of genomics [#f1]_  `link <https://evomics.org/>`_
 #. Konrad Paszkiewicz. History of DNA and modern approaches to sequencing (2017) `link <http://evomicsorg.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/Introduction-to-genomic-history.pdf>`_
+
+
+=============
+Good reviews
+=============
 
 
 
