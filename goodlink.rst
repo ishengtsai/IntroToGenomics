@@ -1,5 +1,5 @@
 
-Lecture notes
+References
 ============================================
 
 This page contains all the goodies on the internet also relevant to this course. 
