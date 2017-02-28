@@ -24,7 +24,7 @@ Contents:
    Course introduction <intro>
    Lecture slides <lec>
    Statistics of the course <stats>
-
+   Links to good references <goodlink>
 
 
 
