@@ -21,10 +21,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Course introduction <intro>
-   Lecture slides <lec>
-   Statistics of the course <stats>
-   Links to good references <goodlink>
+   01. Course introduction <intro>
+   02. Lecture slides <lec>
+   03. Statistics of the course <stats>
+   04. Links to good references <goodlink>
 
 
 
