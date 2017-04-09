@@ -2,9 +2,9 @@
 Lecture notes
 ============================================
 
-This page contains all the downloadable slides in the class of 2015. 
+This page contains all the slides that I taught. 
 
-
+TIGP Introduction to NGS
 1. Introductory lecture :download:`Download <slides/Week1-Introduction.pdf>`
 #. Linux and R ; basic usage :download:`Download <slides/Week2-LinuxandRBasic.pdf>`
 #. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
@@ -19,6 +19,11 @@ This page contains all the downloadable slides in the class of 2015.
 #. Practical two: RNAseq mapping and EdgeR
 #. Discussion
 #. Final Report
+
+TIGP B2
+1. NGS Analytics `Download <slides/2017.NGS-Analytics.pdf>`
+2. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
+
 
 
 .. note:: Email ijtsai@gate.sinica.edu.tw if you have any problems/suggestions/want to use the slides

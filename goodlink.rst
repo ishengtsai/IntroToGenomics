@@ -13,7 +13,7 @@ Lecture slides
 #. Konrad Paszkiewicz. History of DNA and modern approaches to sequencing (2017) `link <http://evomicsorg.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/Introduction-to-genomic-history.pdf>`_
 #. Introduction to bioinformatics using NGS `link <https://felixeyegithubio.readthedocs.io/en/latest/ngsintro/1502/>`_
 #. Introduction to genome annotation `link <https://felixeyegithubio.readthedocs.io/en/latest/annotation/2015/>`_
-
+#. EMBL predocs python course `link <http://www.ebi.ac.uk/~marco/2016_python_course/>`_
 
 
 
