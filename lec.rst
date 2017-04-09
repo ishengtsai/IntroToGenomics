@@ -4,7 +4,10 @@ Lecture notes
 
 This page contains all the slides that I taught. 
 
+========================
 TIGP Introduction to NGS
+========================
+
 1. Introductory lecture :download:`Download <slides/Week1-Introduction.pdf>`
 #. Linux and R ; basic usage :download:`Download <slides/Week2-LinuxandRBasic.pdf>`
 #. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
@@ -20,7 +23,12 @@ TIGP Introduction to NGS
 #. Discussion
 #. Final Report
 
+
+=======
 TIGP B2
+=======
+
+
 1. NGS Analytics :download:`Download <slides/2017.NGS-Analytics.pdf>`
 #. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
 
