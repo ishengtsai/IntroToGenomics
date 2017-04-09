@@ -21,8 +21,8 @@ TIGP Introduction to NGS
 #. Final Report
 
 TIGP B2
-1. NGS Analytics `Download <slides/2017.NGS-Analytics.pdf>`
-2. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
+1. NGS Analytics :download:`Download <slides/2017.NGS-Analytics.pdf>`
+#. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
 
 
 
