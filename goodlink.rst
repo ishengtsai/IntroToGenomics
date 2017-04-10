@@ -17,9 +17,11 @@ This page contains all the goodies on the internet also relevant to this course.
 ##Good reviews / papers
 
 ### Metgenomics
+
 1. Jovel *et al*., `Characterization of the Gut Microbiome Using 16S or Shotgun Metagenomics <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837688/>`_
 
 ### Population genomics
+
 1. 
 
 
