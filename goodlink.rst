@@ -4,7 +4,7 @@ References
 
 This page contains all the goodies on the internet also relevant to this course. 
 
-===============
+
 Lecture slides
 ================
 
@@ -14,7 +14,7 @@ Lecture slides
 #. Introduction to genome annotation `link <https://felixeyegithubio.readthedocs.io/en/latest/annotation/2015/>`_
 #. EMBL predocs python course `link <http://www.ebi.ac.uk/~marco/2016_python_course/>`_
 
-====================
+
 Good reviews / papers
 =====================
 
