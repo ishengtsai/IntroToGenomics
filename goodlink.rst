@@ -15,17 +15,23 @@ Lecture slides
 #. EMBL predocs python course `link <http://www.ebi.ac.uk/~marco/2016_python_course/>`_
 
 
-Good reviews / papers
-----------------------
+Good reviews / papers / videos
+------------------------------
+
+**Genome assembly**
+
+1. Jang-il Sohn and Jin-Wu Nam (2016) `The present and future of de novo whole-genome assembly <https://academic.oup.com/bib/article/doi/10.1093/bib/bbw096/2339783/The-present-and-future-of-de-novo-whole-genome>`_
+
 
 **Metgenomics**
 
 1. Jovel *et al*., `Characterization of the Gut Microbiome Using 16S or Shotgun Metagenomics <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837688/>`_
 
+
 **Population genomics**
 
-
-1. 
+1. Sònia Casillas and Antonio Barbadilla (March 2017) `Molecular Population Genetics [#f2]_ <http://www.genetics.org/content/genetics/205/3/1003.full.pdf>`_
+2. `The 100,000 Genomes Project - How We Get Results <https://www.youtube.com/watch?v=m1k91ynqFIU>`_
 
 
 
@@ -35,6 +41,7 @@ Good reviews / papers
 .. rubric:: Footnotes
 
 .. [#f1] This is led by a small group of faculty at various institutions around the world. I strongly recommend any students to study the materials in here. 
+.. [#f2] A good revision on the history of population genetics in *Drosophila*
 
 
 
