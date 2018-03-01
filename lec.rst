@@ -8,7 +8,7 @@ This page contains all the slides that I taught.
 TIGP Introduction to NGS
 ========================
 
-1. Introductory lecture :download:`Download <slides/Week1-Introduction.pdf>`
+1. Introductory lecture [v2018] :download:`Download <slides/Week1-Introduction.pdf>`
 #. Linux and R ; basic usage :download:`Download <slides/Week2-LinuxandRBasic.pdf>`
 #. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Mapping and Case studies :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
