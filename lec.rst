@@ -9,7 +9,7 @@ TIGP Introduction to NGS
 ========================
 
 1. Introductory lecture [v2018] :download:`Download <slides/Week1-Introduction.pdf>`
-#. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf?`
+#. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
 #. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Mapping and Case studies :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
 #. From Alignment to phylogeny (Jiang Ming Chang) :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
@@ -24,10 +24,10 @@ TIGP Introduction to NGS
 #. Final Report
 
 Example Dataset:
-1. :download:`myoviridae_healthy.txt <slides/myoviridae_healthy.txt>` (taken from `R into with GGPLOT <http://evomics.org/learning/programming/r/introduction-to-r-with-ggplot/>`)
-#. :download:`worms.txt <slides/worms.txt>` (Example taken from `R exercises and examples   <https://github.com/shifteight/R>`)
+1. :download:`myoviridae_healthy.txt <slides/myoviridae_healthy.txt>` (taken from `R into with GGPLOT <http://evomics.org/learning/programming/r/introduction-to-r-with-ggplot/>`_)
+#. :download:`worms.txt <slides/worms.txt>` (Example taken from `R exercises and examples   <https://github.com/shifteight/R>`_)
 #. :download:`Survey2.csv <slides/Survey2.csv>` (questionnaire survey)
-#. `R examples in Lecture 2 <slides/survey.html>``
+#. `R examples in Lecture 2 <slides/survey.html>`_
 
 
 =======
