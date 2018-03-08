@@ -24,10 +24,10 @@ TIGP Introduction to NGS
 #. Final Report
 
 Example Dataset:
-1. :download:`myoviridae_healthy.txt <slides/myoviridae_healthy.txt>` (taken from `R into with GGPLOT <http://evomics.org/learning/programming/r/introduction-to-r-with-ggplot/>`_)
-#. :download:`worms.txt <slides/worms.txt>` (Example taken from `R exercises and examples   <https://github.com/shifteight/R>`_)
-#. :download:`Survey2.csv <slides/Survey2.csv>` (questionnaire survey)
-#. `R examples in Lecture 2 <slides/survey.html>`_
+*. :download:`myoviridae_healthy.txt <slides/myoviridae_healthy.txt>` (taken from `R into with GGPLOT <http://evomics.org/learning/programming/r/introduction-to-r-with-ggplot/>`_).
+*. :download:`worms.txt <slides/worms.txt>` (Example taken from `R exercises and examples   <https://github.com/shifteight/R>`_).
+*. :download:`Survey2.csv <slides/Survey2.csv>` (questionnaire survey).
+*. `R examples in Lecture 2 <slides/survey.html>`_.
 
 
 =======
