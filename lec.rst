@@ -9,7 +9,7 @@ TIGP Introduction to NGS
 ========================
 
 1. Introductory lecture [v2018] :download:`Download <slides/Week1-Introduction.pdf>`
-#. Linux and R ; basic usage :download:`Download <slides/Week2-LinuxandRBasic.pdf>`
+#. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf?`
 #. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Mapping and Case studies :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
 #. From Alignment to phylogeny (Jiang Ming Chang) :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
@@ -22,6 +22,9 @@ TIGP Introduction to NGS
 #. Practical two: RNAseq mapping and EdgeR
 #. Discussion
 #. Final Report
+
+Dataset:
+1. [myoviridae_healthy.txt](myoviridae_healthy.txt) (taken from [R into with GGPLOT](http://evomics.org/learning/programming/r/introduction-to-r-with-ggplot/))
 
 
 =======
