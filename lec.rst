@@ -50,6 +50,13 @@ GSB 2017
 1. Comparative Genomics :download:`Download <slides/2017.11.21-ComparativeGenomics.v2.pdf>`
 #. RNAseq and Genome annotation :download:`Download <slides/2017.11.23.rnaseq.v2.pdf>`
 
+===========
+長庚 2018
+===========
+
+1. NGS 次世代定序 Introduction :download:`Download <slides/2018.NGS-CG.pdf>`
+
+
 
 
 .. note:: Email ijtsai@gate.sinica.edu.tw if you have any problems/suggestions/want to use the slides
