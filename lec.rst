@@ -10,7 +10,7 @@ TIGP Introduction to NGS
 
 1. Introductory lecture [v2018] :download:`Download <slides/Week1-Introduction.pdf>`
 #. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
-#. Genome Assembly and case studies :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
+#. Genome Assembly and case studies [v2018] :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Mapping and Case studies :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
 #. From Alignment to phylogeny (Jiang Ming Chang) :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>`
