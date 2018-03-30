@@ -12,7 +12,7 @@ TIGP Introduction to NGS
 #. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
 #. Genome Assembly and case studies [v2018] :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Read Mappings [v2018] :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
-#. From Alignment to phylogeny (Jiang Ming Chang) :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
+#. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>`
 #. RNAseq and Genome annotation :download:`Download <slides/Week8-rnaseq.v2.pdf>`
 #. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
