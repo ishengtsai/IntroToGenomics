@@ -14,7 +14,7 @@ TIGP Introduction to NGS
 #. Read Mappings [v2018] :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
 #. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>`
-#. RNAseq and Genome annotation :download:`Download <slides/Week8-rnaseq.v2.pdf>`
+#. RNAseq and Genome annotation [v2018] :download:`Download <slides/Week8-rnaseq.v3.pdf>`
 #. Comparative Genomics [v2018] :download:`Download <slides/Week9-ComparativeGenomics.v4-2018.pdf>`
 #. Population Genomics (John Wang)
 #. Amplicon / Metagenomics :download:`Download <slides/Week10-AmpliconMetagenomics.v2.pdf>`
