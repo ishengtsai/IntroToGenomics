@@ -17,7 +17,7 @@ TIGP Introduction to NGS
 #. RNAseq and Genome annotation [v2018] :download:`Download <slides/Week8-rnaseq.v3.pdf>`
 #. Comparative Genomics [v2018] :download:`Download <slides/Week9-ComparativeGenomics.v4-2018.pdf>`
 #. Population Genomics (John Wang)
-#. Amplicon / Metagenomics :download:`Download <slides/Week10-AmpliconMetagenomics.v2.pdf>`
+#. Amplicon / Metagenomics [v2018] :download:`Download <slides/Week10-AmpliconMetagenomics.v3.pdf>`
 #. Practical one: Linux and R
 #. Practical two: RNAseq mapping and EdgeR
 #. Discussion
