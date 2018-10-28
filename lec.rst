@@ -48,7 +48,7 @@ GSB 2018
 ==========
 
 1. Comparative Genomics :download:`Download <slides/2018-GSB-ComparativeGenomics.pdf>`
-#. RNAseq and Genome annotation :download:`Download <slides/2017.11.23.rnaseq.v2.pdf>`
+#. RNAseq and Genome annotation [not updated yet]
 
 ===========
 長庚 2018
