@@ -38,7 +38,7 @@ TIGP B2
 =======
 
 
-1. NGS Analytics [v2018] :download:`Download <slides/2018.NGS-Analytics.pdf>`
+1. NGS Analytics [v2019] :download:`Download <slides/2019.NGS-Analytics.pdf>`
 #. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
 
 
