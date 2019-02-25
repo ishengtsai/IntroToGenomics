@@ -61,4 +61,4 @@ Homework: Choose a paper that combines both comparative genomics and RNAseq to a
 
 
 
-.. note:: Email ijtsai@gate.sinica.edu.tw if you have any problems/suggestions/want to use the slides
+.. note:: Email ijtsai at sinica.edu.tw if you have any problems/suggestions/want to use the slides
