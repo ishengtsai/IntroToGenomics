@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'2015TigpIntroNGS'
-copyright = u'2016, Isheng J Tsai'
+project = u'IntroNGS'
+copyright = u'2015-2019, Isheng J Tsai'
 author = u'Isheng J Tsai'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -233,7 +233,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = '2015TigpIntroNGSdoc'
+htmlhelp_basename = 'IntroNGSdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, '2015TigpIntroNGS.tex', u'2015TigpIntroNGS Documentation',
+    (master_doc, 'IntroNGS.tex', u'IntroNGS Documentation',
      u'Isheng J Tsai', 'manual'),
 ]
 
@@ -301,7 +301,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, '2015tigpintrongs', u'2015TigpIntroNGS Documentation',
+    (master_doc, 'introngs', u'IntroNGS Documentation',
      [author], 1)
 ]
 
@@ -316,8 +316,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, '2015TigpIntroNGS', u'2015TigpIntroNGS Documentation',
-     author, '2015TigpIntroNGS', 'One line description of project.',
+    (master_doc, 'IntroNGS', u'IntroNGS Documentation',
+     author, 'IntroNGS', 'One line description of project.',
      'Miscellaneous'),
 ]
 
