@@ -42,6 +42,12 @@ TIGP B2
 #. Comparative Genomics :download:`Download <slides/Week9-ComparativeGenomics.v2.pdf>`
 
 
+====================================
+TIGP Microbial Diversity and Ecology
+====================================
+
+1. Fungal Diversity [v2019] :download:`Download <slides/2019.fungal.diversity.v1.pdf>`
+
 
 ==========
 GSB 2018
