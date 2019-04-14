@@ -47,6 +47,7 @@ TIGP Microbial Diversity and Ecology
 ====================================
 
 1. Fungal Diversity [v2019] :download:`Download <slides/2019.fungal.diversity.v1.pdf>`
+#. Genomics of Eukaryotic microorganisms :download:`Download <slides/2019-GenomicsOfEukaryoticMicroorganisms.v2.pdf>`
 
 
 ==========
