@@ -51,11 +51,11 @@ TIGP Microbial Diversity and Ecology
 
 
 ==========
-GSB 2018
+GSB 2019
 ==========
 
-1. Comparative Genomics :download:`Download <slides/2018-GSB-ComparativeGenomics.pdf>`
-#. Introduction to Transcriptome :download:`Download <slides/2018.11.29.rnaseq.v3.pdf>`
+1. Bioinformatics: An Introduction :download:`Download <slides/2019.09.12-Bioinformatics-Intro_v1.pdf>`
+
 
 Homework: Choose a paper that combines both comparative genomics and RNAseq to address a biological question. The paper has to be published from 2015-2018. Please write a review, be critique on the techniques used and assess the strength and weaknesses of the paper. Please hand in before 12/29 (one month's time to write the homework). Late or no hand in of your work will be marked 0. 
 
