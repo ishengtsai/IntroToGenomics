@@ -4,6 +4,13 @@ Lecture notes
 
 This page contains all the slides that I taught. 
 
+==========
+GSB 2019
+==========
+
+1. Bioinformatics: An Introduction :download:`Download <slides/2019.09.12-Bioinformatics-Intro_v1.pdf>`
+
+
 ========================
 TIGP Introduction to NGS
 ========================
@@ -49,15 +56,6 @@ TIGP Microbial Diversity and Ecology
 1. Fungal Diversity [v2019] :download:`Download <slides/2019.fungal.diversity.v1.pdf>`
 #. Genomics of Eukaryotic microorganisms :download:`Download <slides/2019-GenomicsOfEukaryoticMicroorganisms.v2.pdf>`
 
-
-==========
-GSB 2019
-==========
-
-1. Bioinformatics: An Introduction :download:`Download <slides/2019.09.12-Bioinformatics-Intro_v1.pdf>`
-
-
-Homework: Choose a paper that combines both comparative genomics and RNAseq to address a biological question. The paper has to be published from 2015-2018. Please write a review, be critique on the techniques used and assess the strength and weaknesses of the paper. Please hand in before 12/29 (one month's time to write the homework). Late or no hand in of your work will be marked 0. 
 
 ===========
 長庚 2019
