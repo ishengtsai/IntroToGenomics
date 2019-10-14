@@ -9,6 +9,8 @@ GSB 2019
 ==========
 
 1. Bioinformatics: An Introduction :download:`Download <slides/2019.09.12-Bioinformatics-Intro_v1.pdf>`
+#. Amplicon Seq and Metagenomics :download:`Download <slides/2019.10.15.AmpliconMetagenomics.v3.pdf>`
+#. RNAseq :download:`Download <slides/2019.10.17.rnaseq.v3.pdf>`
 
 
 ========================
