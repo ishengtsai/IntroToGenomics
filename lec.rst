@@ -17,7 +17,7 @@ GSB 2019
 TIGP Introduction to NGS
 ========================
 
-1. Introductory lecture [v2018] :download:`Download <slides/Week1-Introduction.pdf>`
+1. Introductory lecture [v2020] :download:`Download <slides/Week1-Introduction.v2.pdf>`
 #. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
 #. Genome Assembly and case studies [v2018] :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Read Mappings [v2018] :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
