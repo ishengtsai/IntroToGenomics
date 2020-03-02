@@ -13,12 +13,12 @@ GSB 2019
 #. RNAseq :download:`Download <slides/2019.10.17.rnaseq.v3.pdf>`
 
 
-========================
-TIGP Introduction to NGS
-========================
+====================================
+TIGP Introduction to NGS / Genomics
+====================================
 
 1. Introductory lecture [v2020] :download:`Download <slides/Week1-Introduction.v2.pdf>`
-#. Introduction II Linux, R, and other-Tools [v2018] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
+#. Introduction II Linux, R, and other-Tools [v2020] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
 #. Genome Assembly and case studies [v2018] :download:`Download <slides/Week3-AssemblyAndCaseStudies.v2.pdf>`
 #. Read Mappings [v2018] :download:`Download <slides/Week4-MappingAndCaseStudies.v3.pdf>`
 #. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>`

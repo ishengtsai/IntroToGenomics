@@ -4,10 +4,10 @@
    contain the root `toctree` directive.
 
 
-Introduction to Next Generation Sequencing (NGS): Data and Analysis
+Introduction to Genomics: Data and Analysis
 ====================================================================
 
-This is the website that contains the slides for the Intro to NGS lecture taught in NTNU and NTU. All the information relevant to this module will be posted here. 
+This is the website that contains the slides for the Intro to genomics lecture taught in NTNU and NTU. All the information relevant to this module will be posted here. 
 
 
 ::
