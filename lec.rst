@@ -21,18 +21,19 @@ TIGP Introduction to Genomics / (NGS)
 #. Introduction II Linux, R, and other-Tools [v2020] :download:`Download <slides/Week2-IntroII-Tools-Linux-R.pdf>`
 #. Read Mappings [v2020] :download:`Download <slides/Week3-MappingAndCaseStudies.v3.pdf>` 
 #. Genome Assembly and case studies [v2020] :download:`Download <slides/Week4-AssemblyAndCaseStudies.v2.pdf>` 
+#. Comparative Genomics [v2020] :download:`Download <slides/Week5-ComparativeGenomics.v5.pdf>`
+#. RNAseq and Genome annotation [v2018] :download:`Download <slides/Week8-rnaseq.v3.pdf>` (not updated yet)
 #. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>` (not updated yet)
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
-#. RNAseq and Genome annotation [v2018] :download:`Download <slides/Week8-rnaseq.v3.pdf>` (not updated yet)
-#. Comparative Genomics [v2018] :download:`Download <slides/Week9-ComparativeGenomics.v4-2018.pdf>` (not updated yet)
 #. Population Genomics (John Wang)
-#. Amplicon / Metagenomics [v2018] :download:`Download <slides/Week10-AmpliconMetagenomics.v3.pdf>` (not updated yet)
+#. Amplicon / Metagenomics [v2018] :download:`Download <slides/Week10-AmpliconMetagenomics.v3.pdf>`
 #. Practical one: Linux and R (not updated yet)
 #. Practical two: RNAseq mapping and EdgeR (not updated yet)
 #. Discussion
 #. Final Report
 
-First assignment (dealine 25th March): Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
+First assignment (dealine 25th March): 
+Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
 
 Second assignment (deadline 15th April):
 	1. Construct a BWT of the following sequence ANNABANANA . Show your working.
