@@ -22,7 +22,7 @@ TIGP Introduction to Genomics / (NGS)
 #. Read Mappings [v2020] :download:`Download <slides/Week3-MappingAndCaseStudies.v3.pdf>` 
 #. Genome Assembly and case studies [v2020] :download:`Download <slides/Week4-AssemblyAndCaseStudies.v2.pdf>` 
 #. Comparative Genomics [v2020] :download:`Download <slides/Week5-ComparativeGenomics.v5.pdf>`
-#. RNAseq and Genome annotation [v2018] :download:`Download <slides/Week8-rnaseq.v3.pdf>` (not updated yet)
+#. RNAseq and Genome annotation [v2020] :download:`Download <slides/Week6-rnaseq.v3.pdf>` 
 #. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>` (not updated yet)
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
 #. Population Genomics (John Wang)
