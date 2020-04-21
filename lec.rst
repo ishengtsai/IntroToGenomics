@@ -23,14 +23,17 @@ TIGP Introduction to Genomics / (NGS)
 #. Genome Assembly and case studies [v2020] :download:`Download <slides/Week4-AssemblyAndCaseStudies.v2.pdf>` 
 #. Comparative Genomics [v2020] :download:`Download <slides/Week5-ComparativeGenomics.v5.pdf>`
 #. RNAseq and Genome annotation [v2020] :download:`Download <slides/Week6-rnaseq.v3.pdf>` 
-#. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2018] :download:`Download <slides/Week5-FromAlignmentToPhylogeny.JiaMingChang.pdf>` (not updated yet)
-#. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
+#. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2020] :download:`Download <slides/Week7-AlignmentToPhylogeny.JiaMingChang.v2020.pdf>` 
 #. Population Genomics (John Wang)
 #. Amplicon / Metagenomics [v2018] :download:`Download <slides/Week10-AmpliconMetagenomics.v3.pdf>`
+#. Study week (no class)
+#. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
+#. Midterm Exam (27t May)
+#. Final presentation I (Students)
+#. Final presentation II (Students)
 #. Practical one: Linux and R (not updated yet)
 #. Practical two: RNAseq mapping and EdgeR (not updated yet)
-#. Discussion
-#. Final Report
+#. Final Report due
 
 First assignment (dealine 25th March): 
 Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
