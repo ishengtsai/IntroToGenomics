@@ -24,7 +24,7 @@ TIGP Introduction to Genomics / (NGS)
 #. Comparative Genomics [v2020] :download:`Download <slides/Week5-ComparativeGenomics.v5.pdf>`
 #. RNAseq and Genome annotation [v2020] :download:`Download <slides/Week6-rnaseq.v3.pdf>` 
 #. From Alignment to phylogenetic tree (Jiang Ming Chang) [v2020] :download:`Download <slides/Week7-AlignmentToPhylogeny.JiaMingChang.v2020.pdf>` 
-#. Population Genomics (John Wang)
+#. Population Genomics (John Wang) [v2020] :download:`Download <slides/Week8-popGenomics.JohnWang2020.pdf>`
 #. Amplicon / Metagenomics [v2018] :download:`Download <slides/Week10-AmpliconMetagenomics.v3.pdf>`
 #. Study week (no class)
 #. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
