@@ -27,7 +27,7 @@ TIGP Introduction to Genomics / (NGS)
 #. Population Genomics (John Wang) [v2020] :download:`Download <slides/Week8-popGenomics.JohnWang2020.pdf>`
 #. Amplicon / Metagenomics [v2020] :download:`Download <slides/Week9.AmpliconMetagenomics.v3.pdf>`
 #. Study week (no class)
-#. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) :download:`Download <slides/Week6-NGS and sample prep.MeiyehLu.pdf>` (not updated yet)
+#. DNA/RNA preparation and different sequencing technologies  (Meiyeh Lu) [v2020] :download:`Download <slides/Week10-NGStech-MeiyehLu.pdf>`
 #. Midterm Exam (27t May)
 #. Final presentation I (Students)
 #. Final presentation II (Students)
@@ -44,12 +44,14 @@ Second assignment (deadline 15th April):
 	3. Write out how you searched the string ANNA
 
 Final presentation. 
-	Each of you will present a 10 minute talk about your "genomic projec proposalt". This can be resequencing, de novo assembly, RNAseq, amplicons, metagenomics, anything as long as it involves sequencing. This can not be your current work, so you need to think outside the box. 
+	Each of you will present a 10 minute talk about your "genomic projec proposal", followed by 5 minutes of questions. 
+	This can be resequencing, de novo assembly, RNAseq, amplicons, metagenomics, anything as long as it involves sequencing. This can not be your current work, so you need to think outside the box. 
 	The only required format is your first slide -> briefly introduce yourself and what you are currently working on.
 	The second slide is the start of proposal with a title of your project.
 	Any number of slides are fine as long as you can keep track of time.	
 	Order of students will be chosen randomly.
-	Marks will be normalised by week, so the marks of first group will be normalised based on the performance of presenters in week 14.
+	Marks will be normalised by week, for example the marks of first group will be normalised based on the performance of presenters in week 14.
+
 
 Midterm exam: Self explanatory. Two hours.
 	All the guest speakers' lectures won't be tested.
