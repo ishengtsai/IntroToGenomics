@@ -13,6 +13,15 @@ GSB 2019
 #. RNAseq :download:`Download <slides/2019.10.17.rnaseq.v3.pdf>`
 
 
+=======================
+Advanced Microbiology
+=======================
+
+1. Ecological Genomics [v2020] :download:`Download <slides/2020.EcologicalGenomics.pdf>`
+
+
+
+
 ======================================
 TIGP Introduction to Genomics / (NGS)  
 ======================================
