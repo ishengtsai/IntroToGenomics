@@ -40,9 +40,9 @@ TIGP Introduction to Genomics / (NGS)
 #. Midterm Exam (27t May)
 #. Final presentation I (Students)
 #. Final presentation II (Students)
-#. Practical one: Linux and R (not updated yet) ; Attendance optional
+#. R tutorial I [v2020] ; Attendance optional ; :download:`Download <slides/Week16-Rtutorial-I.v2.pdf>`
 #. Practical two: RNAseq mapping and DEseq2 (not updated yet) ; Attendance optional
-#. Final R assignment due ; no class
+#. no class
 
 First assignment (dealine 25th March): 
 Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
@@ -65,8 +65,7 @@ Final presentation.
 Midterm exam: Self explanatory. Two hours.
 	All the guest speakers' lectures won't be tested.
 
-R assignment (deadline 1st July):
-	Download an open data somewhere. Try your best to explore, analyse and interpret your data. Put everything in a R markdown document. 
+Final marks submitted
 
 
 =========================================
