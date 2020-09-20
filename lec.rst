@@ -9,9 +9,9 @@ GSB 2020
 ==========
 
 1. Bioinformatics: An Introduction [v2020] :download:`Download <slides/2020-GSB-Intro2Bioinformatics.pdf>`
-#. 24 Sep R tutorials (not updated) 
+#. 24 Sep RNAseq :download:`Download <slides/2020-GSB-Intro2Transcriptomics>`
 #. 20 Oct Amplicon Seq and Metagenomics (not updated) 
-#. 22 Oct RNAseq (not updated) 
+#. 22 Oct R tutorials (tidyverse + DEseq2) (not updated) 
 
 First assignment (dealine 12th November): 
 Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
