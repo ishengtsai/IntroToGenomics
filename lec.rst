@@ -9,7 +9,7 @@ GSB 2020
 ==========
 
 1. Bioinformatics: An Introduction [v2020] :download:`Download <slides/2020-GSB-Intro2Bioinformatics.pdf>`
-#. 24 Sep RNAseq :download:`Download <slides/2020-GSB-Intro2Transcriptomics>`
+#. 24 Sep RNAseq :download:`Download <slides/2020-GSB-Intro2Transcriptomics.pdf>`
 #. 20 Oct Amplicon Seq and Metagenomics (not updated) 
 #. 22 Oct R tutorials (tidyverse + DEseq2) (not updated) 
 
