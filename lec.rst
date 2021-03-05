@@ -89,8 +89,8 @@ TIGP B2
 =======
 
 
-1. NGS Analytics [v2019] :download:`Download <slides/2019.NGS-Analytics.pdf>`
-#. Comparative and Evolutionary Genomics :download:`Download <slides/2019-ComparativeGenomics.v6.pdf>`
+1. Comparative and Evolutionary Genomics [v2021] :download:`Download <slides/2021-ComparativeGenomics.v6_c.pdf>`
+#. Genome assemblies and case studies [not updated yet]
 
 
 ====================================
