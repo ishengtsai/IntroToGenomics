@@ -90,7 +90,7 @@ TIGP B2
 
 
 1. Comparative and Evolutionary Genomics [v2021] :download:`Download <slides/2021-ComparativeGenomics.v6_c.pdf>`
-#. Genome assemblies and case studies [v2021] :download: `Download <slides/2021-AssemblyAndCaseStudies.v2_c.pdf>`
+#. Genome assemblies and case studies [v2021] :download:`Download <slides/2021-AssemblyAndCaseStudies.v2_c.pdf>`
 
 
 ====================================
