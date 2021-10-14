@@ -5,14 +5,11 @@ Lecture notes
 This page contains all the slides that I taught. 
 
 ==========
-GSB 2020
+GSB 2021
 ==========
 
-1. Bioinformatics: An Introduction [v2020] :download:`Download <slides/2020-GSB-Intro2Bioinformatics.pdf>`
-#. Introduction to Transcriptomics [24 Sep 2020] :download:`Download <slides/2020-GSB-Intro2Transcriptomics.pdf>`
-#. Amplicon Seq and Metagenomics [20 Oct 2020] :download:`Download <slides/2020-GSB-AmpliconMetagenomics.pdf>`
-#. R tutorial (tidyverse) [22 Oct 2020] :download:`Download <slides/2020-GSB-Rtutorial.pdf>`
-#. R exercise (DEseq2) [22 Oct 2020] :download:`Download <slides/DeseqTutorial.html>`
+1. R exercise <exercises/2021_R_intro.html>
+
 
 Assignment (dealine 12th November): 
 Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
