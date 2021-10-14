@@ -8,11 +8,9 @@ This page contains all the slides that I taught.
 GSB 2021
 ==========
 
-1. R exercise `click here <https://introtogenomics.readthedocs.io/en/latest/2021_R_intro.html>`_
-#. R exercise test 2 `click here <2021_R_intro.html>`_
-#. test 3 `click shshs <2021_R_intro>`_
-
-
+1. R intro exercise [19and21stOct] `go <2021_R_intro.html>`_
+#. R exercise for diversity [tocome]
+#. DEseq exercise [11thNov] `go <2021.11.11.DeseqTutorial.html>`_
 
 
 
