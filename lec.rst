@@ -8,9 +8,9 @@ This page contains all the slides that I taught.
 GSB 2021
 ==========
 
-1. R intro exercise [19and21stOct] `go <2021_R_intro.html>`_
-#. R exercise for diversity [tocome]
-#. DEseq exercise [11thNov] `go <2021.11.11.DeseqTutorial.html>`_
+1. R intro exercise [19and21stOct] (approx 3.5 hrs in total) `Open <2021_R_intro.html>`_
+#. R exercise for diversity [28thOct] ToCome
+#. DEseq exercise [11thNov] `Open <2021.11.11.DeseqTutorial.html>`_
 
 
 
