@@ -8,11 +8,12 @@ This page contains all the slides that I taught.
 GSB 2021
 ==========
 
-1. R exercise <exercises/2021_R_intro.html>
+1. R exercise `click here <https://introtogenomics.readthedocs.io/en/latest/2021_R_intro.html>`
+#. R exercise test 2 `click here <2021_R_intro.html>`
+#. test 3 `click shshs <2021_R_intro>`
 
 
-Assignment (dealine 12th November): 
-Find a paper that has a combination of comparative, population, RNAseq or metagenomics in your field (at least 2). Write a protocol on how the bioinformatics part of the study was conducted (what tools, what version, input, output). As detailed as possible.
+
 
 
 
