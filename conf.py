@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'IntroNGS'
-copyright = u'2015-2019, Isheng J Tsai'
+copyright = u'2015-2022, Isheng J Tsai'
 author = u'Isheng J Tsai'
 
 # The version info for the project you're documenting, acts as replacement for

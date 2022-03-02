@@ -4,10 +4,12 @@
    contain the root `toctree` directive.
 
 
-Introduction to Genomics: Data and Analysis
+Intro
 ====================================================================
 
-This is the website that contains the slides for the Intro to genomics lecture taught in NTNU and NTU. All the information relevant to this module will be posted here. 
+Hi! I am `Jason Tsai <http://ecogenomics.biodiv.tw/pi>`_ , an associate fellow at Biodiversity Research Center, Academia Sinica, Taiwan.
+
+This website contains the slides for the Intro to genomics lecture that I taught every two years in NTNU and NTU, along with other things. 
 
 
 ::
@@ -24,7 +26,8 @@ Contents:
    01. Course introduction <intro>
    02. Lecture slides <lec>
    03. Statistics of the course <stats>
-   04. Links to good references <goodlink>
+   04. Ecology Master Course Genome skimming <emcgs>
+   05. Links to good references <goodlink> 
 
 
 
