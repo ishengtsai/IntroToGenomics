@@ -33,7 +33,7 @@ Step 2: Upload the sequences to the server
 Once the file is available, you will need to copy the sequence to the server, where the raw sequences and programs reside. The server's address will be made available on the day of the class.
 
 
-```
+::
 # scp: Secure Copy (from the SSH suite of computer applications for secure communication)
 scp source_file_name destination_file_name
 
@@ -49,9 +49,7 @@ scp sequence.txt tigpsign2021@xxxxxxxxx:/home/tigpsign2021/Aoc/pep.fa
 # Example 2
 # copy from server to laptop/desktop
 scp tigpsign2021@xxxxxxxxxx:/home/tigpsign2021/file_name ~/Desktop/filename
-
-
-```
+::
 
 
 ===========================================
