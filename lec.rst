@@ -84,9 +84,12 @@ Example Dataset (v2018 ; not updated yet)
 TIGP B2
 =======
 
+1. Comparative and Evolutionary Genomics [v2022] :download:`Download <slides/2022-ComparativeGenomics.v6.pdf>`
+#. Genome assemblies and case studies [v2022] :download:`Download <slides/2022-AssemblyAndCaseStudies.v2.pdf>`
 
-1. Comparative and Evolutionary Genomics [v2021] :download:`Download <slides/2021-ComparativeGenomics.v6_c.pdf>`
-#. Genome assemblies and case studies [v2021] :download:`Download <slides/2021-AssemblyAndCaseStudies.v2_c.pdf>`
+Assignment (take home question): 
+First choose a group of species, or a species. Then please write a short review (~10 references) on how analyses of comparative/population genomics have been transformed by recent advances (algorithm and experimental approaches) in sequencing.
+
 
 
 ====================================
