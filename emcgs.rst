@@ -19,7 +19,7 @@ Most of the complete mitochondrial genomes are available in the `Organelle Genom
 Since we previously identified our sample as Aplysia xxxx, just type aplysia and click search. You should see the search result something like this.
 
 
-.. image:: image/AplysiaSearchRes.png
+.. image:: images/AplysiaSearchRes.png
   :width: 600
   :alt: Search result
 
@@ -30,7 +30,7 @@ Image here.
 You should immediately found that representative organism in the group is the California sea hare Aplysia californica. And there's a `Organelle Annotation Report 1 <https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/443/>`_ . Don't be afraid and click into it. You should then find the summary of the mitogenome and its accession number `NC_005827.1 <https://www.ncbi.nlm.nih.gov/nuccore/NC_005827.1>`_ . Click!
 
 
-.. image:: image/AplysiaSearchRes.png
+.. image:: images/AplysiaSearchRes.png
   :width: 600
   :alt: Details of A. californica mitogenome
 
