@@ -23,9 +23,6 @@ Since we previously identified our sample as Aplysia xxxx, just type aplysia and
   :width: 800
   :alt: Search result
 
-Image here. 
-
-
 
 You should immediately found that representative organism in the group is the California sea hare Aplysia californica. And there's a `Organelle Annotation Report 1 <https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/443/>`_ . Don't be afraid and click into it. You should then find the summary of the mitogenome and its accession number `NC_005827.1 <https://www.ncbi.nlm.nih.gov/nuccore/NC_005827.1>`_ . Click!
 
@@ -36,10 +33,7 @@ You should immediately found that representative organism in the group is the Ca
 
 
 
-Please download the coding sequences in the fasta protein format (See screenshot).
-
-
-
+Please download the coding sequences in the fasta protein format (See screenshot). This will act as the bait sequence to identify putative mitochondrial sequences from our sample.
 
 
 
@@ -47,7 +41,7 @@ Please download the coding sequences in the fasta protein format (See screenshot
 Step 2: Upload the sequences to the server
 ===========================================
 
-Once the file is available, you will need to copy the sequence to the server, where the raw sequences and programs reside. The server's address will be made available on the day of the class.
+Once the sequence file is available, you will need to copy the sequence to the server, where the raw sequences and programs reside. The server's address will be made available on the day of the class.
 
 
 .. code-block:: console
@@ -71,9 +65,9 @@ Once the file is available, you will need to copy the sequence to the server, wh
 
 
 
-===========================================
-Understand your sequence data
-===========================================
+===============================================================
+Login to the server and start understanding your sequence data
+===============================================================
 
 In the home directory, you will see a few fastq files that contains raw sequences of the samples that you have sequenced.
 
