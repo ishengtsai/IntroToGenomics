@@ -16,12 +16,29 @@ Step 1: Which species to choose/download?
 
 Most of the complete mitochondrial genomes are available in the `Organelle Genome Resources <https://www.ncbi.nlm.nih.gov/genome/organelle/>`_ . So try to search for the complete mitogenome of most closely related species of your Sample.
 
+Since we previously identified our sample as Aplysia xxxx, just type aplysia and click search. You should see the search result something like this.
+
+
+.. image:: image/AplysiaSearchRes.png
+  :width: 600
+  :alt: Search result
 
 Image here. 
 
 
 
-Please download the coding sequences in the fasta protein format (See screenshot)
+You should immediately found that representative organism in the group is the California sea hare Aplysia californica. And there's a `Organelle Annotation Report 1 <https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/443/>`_ . Don't be afraid and click into it. You should then find the summary of the mitogenome and its accession number `NC_005827.1 <https://www.ncbi.nlm.nih.gov/nuccore/NC_005827.1>`_ . Click!
+
+
+.. image:: image/AplysiaSearchRes.png
+  :width: 600
+  :alt: Details of A. californica mitogenome
+
+
+
+Please download the coding sequences in the fasta protein format (See screenshot).
+
+
 
 
 
