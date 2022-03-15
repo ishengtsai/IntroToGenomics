@@ -20,7 +20,7 @@ Since we previously identified our sample as Aplysia xxxx, just type aplysia and
 
 
 .. image:: images/AplysiaSearchRes.png
-  :width: 600
+  :width: 800
   :alt: Search result
 
 Image here. 
@@ -30,8 +30,8 @@ Image here.
 You should immediately found that representative organism in the group is the California sea hare Aplysia californica. And there's a `Organelle Annotation Report 1 <https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/443/>`_ . Don't be afraid and click into it. You should then find the summary of the mitogenome and its accession number `NC_005827.1 <https://www.ncbi.nlm.nih.gov/nuccore/NC_005827.1>`_ . Click!
 
 
-.. image:: images/AplysiaSearchRes.png
-  :width: 600
+.. image:: images/AcalifornicaMito.png
+  :width: 800
   :alt: Details of A. californica mitogenome
 
 
