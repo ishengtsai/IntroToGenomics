@@ -5,7 +5,11 @@ Genome skimming exercise (last updated 2022.04.14)
 This page is part of the `Ecology Master Class <http://tigp-biodiv.biodiv.tw/index.php/emt-tigp-signature-course/>`_. We will take the sequences that we sampled and produced from MinION platform and see if we can retrieve the mitochondrial genome!
 
 
-Relevant reading: `Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum <https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1>`_
+Relevant reading:
+
+1. `Genome skimming for next-generation biodiversity analysis <https://doi.org/10.1016/j.tplants.2015.06.012>`_
+
+2. `Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum <https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1>`_
 
 
 ==========================================
@@ -138,7 +142,6 @@ Let's start the analysis!
 	# sequencing runs. We will combine them using cat (short for for conCATnate) command
 	cat Aoc.R1.fastq.gz Aoc.R2.fastq.gz > data.fastq.gz
 
-
 	# data stats
 	# what does the output mean?
 	fastn2stats.py --fastn Aoc.R1.fastq.gz
@@ -152,6 +155,8 @@ Let's start the analysis!
 	# Copy the protein sequences from your desktop to your current working directory in the server using # And rename it to pep.fa
 	# Remember you can do it in one step!
 	# See [Step 2]
+
+
 
 
 ===========================================
