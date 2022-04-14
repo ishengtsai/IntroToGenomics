@@ -99,6 +99,10 @@ In the home directory, you will see a few fastq files that contains raw sequence
 	pwd
 
 
+
+.. code-block:: console
+	:linenos:
+	
 	# cd to your groups's directory. This will the directory you will carry out your analyses
 	# cd means Change directory
 	# We will use group1 as an example
