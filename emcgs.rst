@@ -6,7 +6,6 @@ This page is part of the `Ecology Master Class <http://tigp-biodiv.biodiv.tw/ind
 
 
 Relevant reading:
-
 1. `Genome skimming for next-generation biodiversity analysis <https://doi.org/10.1016/j.tplants.2015.06.012>`_
 
 2. `Utilisation of Oxford Nanopore sequencing to generate six complete gastropod mitochondrial genomes as part of a biodiversity curriculum <https://www.biorxiv.org/content/10.1101/2022.03.24.485721v1>`_
