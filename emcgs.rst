@@ -77,7 +77,7 @@ In the home directory, you will see a few fastq files that contains raw sequence
 
 	# First do a pwd
 	# pwd = print working directory
-	# You should see that you are in /home/tigpsign2021/
+	# You should see that you are in /home/tigp2022/
 	pwd
 
 	# Try ls (abbreviation for list)
@@ -97,6 +97,13 @@ In the home directory, you will see a few fastq files that contains raw sequence
 	ls -lrt
 	cd ../
 	pwd
+
+	# you can use cd ~/ to go back to your home directory (if you are lost)
+	# and always use
+	cd ~/
+
+
+Now that you know how to move around
 
 
 
@@ -183,7 +190,7 @@ Annotation using MITOS online
 
 .. code-block:: console
 	:linenos:
-	
+
 	# 1. Go to the flye assembly folder and look around
 	cd out_nano
 	ls -lrt
