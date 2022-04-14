@@ -116,6 +116,7 @@ Now that you know how to move around, you can try to inspect some files
 
 
 
+Let's start the analysis!
 
 
 .. code-block:: console
