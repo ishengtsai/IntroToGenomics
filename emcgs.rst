@@ -102,7 +102,7 @@ In the home directory, you will see a few fastq files that contains raw sequence
 
 .. code-block:: console
 	:linenos:
-	
+
 	# cd to your groups's directory. This will the directory you will carry out your analyses
 	# cd means Change directory
 	# We will use group1 as an example
@@ -183,6 +183,7 @@ Annotation using MITOS online
 
 .. code-block:: console
 	:linenos:
+	
 	# 1. Go to the flye assembly folder and look around
 	cd out_nano
 	ls -lrt
