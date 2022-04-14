@@ -1,5 +1,5 @@
 
-Genome skimming exercise (last updated 2022.03.02)
+Genome skimming exercise (last updated 2022.04.14)
 ===================================================
 
 This page is part of the `Ecology Master Class <http://tigp-biodiv.biodiv.tw/index.php/emt-tigp-signature-course/>`_. We will take the sequences that we sampled and produced from MinION platform and see if we can retrieve the mitochondrial genome!
@@ -99,11 +99,22 @@ In the home directory, you will see a few fastq files that contains raw sequence
 	pwd
 
 	# you can use cd ~/ to go back to your home directory (if you are lost)
-	# and always use
 	cd ~/
 
 
-Now that you know how to move around
+Now that you know how to move around, you can try to inspect some files
+
+.. code-block:: console
+	:linenos:
+
+	# Go to the data folder again and find try to view a fastq file.
+	# Since they are gzipped. You need to use the command zless
+	zless Aoc.R1.fastq.gz
+
+	# use space to go page down, use arrows to go up and down. 
+	# use q to quit viewing the file
+
+
 
 
 
@@ -113,7 +124,7 @@ Now that you know how to move around
 	# cd to your groups's directory. This will the directory you will carry out your analyses
 	# cd means Change directory
 	# We will use group1 as an example
-	cd group1
+	cd ~/group1
 	pwd
 
 	# you want to copy fastq file into the new working folder and renamed to data.fastq.gz
