@@ -4,13 +4,13 @@ Lecture notes
 
 This page contains all the slides that I taught. 
 
-==========
-GSB 2021
-==========
+=====================
+GSB 2022 R practicals
+=====================
 
-1. R intro exercise [19and21stOct] (approx 3.5 hrs in total) `Open <2021_R_intro.html>`_
-#. R exercise for diversity [28thOct] `Open <2021_diversityTutorial.html>`_
-#. DEseq exercise [11thNov] `Open <2021.11.11.DeseqTutorial.html>`_
+1. R intro exercise [updated v2022] `Open <2021_R_intro.html>`_
+#. R exercise for diversity `Open <2021_diversityTutorial.html>`_
+#. DEseq exercise `Open <2021.11.11.DeseqTutorial.html>`_
 
 
 

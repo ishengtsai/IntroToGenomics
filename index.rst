@@ -7,9 +7,10 @@
 Intro
 ====================================================================
 
-Hi! I am `Jason Tsai <http://ecogenomics.biodiv.tw/pi>`_ , an associate fellow at Biodiversity Research Center, Academia Sinica, Taiwan.
+Hi! I am `蔡怡陞 Jason Tsai <http://ecogenomics.biodiv.tw/pi>`_ , an associate research fellow at Biodiversity Research Center, Academia Sinica, Taiwan.
 
-This website contains the slides for the Intro to genomics lecture that I taught every two years in NTNU and NTU, along with other things. 
+This website contains the teaching slides that I taught every two years in NTNU and NTU, along with other things. 
+
 
 
 ::
