@@ -1,0 +1,141 @@
+SRA	ID	Substrate	Country	GeographicOrigin	Latitude	Longitude	HOST_TYPE	HOST_ORDER	HOST_FAMILY	HOST_GENUS	HOST_NAME	Study	Pop	Pop_clade
+SPA0423_011_001	AH002	soil	Taiwan	NA	24.097222	121.180754	plant	Fagales	Fagaceae	Quercus	Quercus stenophylloides	This	TW4a	TW4a
+SPA0083_016_001	BH032	NA	Taiwan	Yilan_Yuanshan	24.762702	121.585375	plant	Fagales	Fagaceae	Quercus	Quercus variabilis	This	TW2b	TW2b
+SP00147_017_001	GH002	Fallen fruit	Taiwan	Nantou_Puli	23.990053	121.01594	plant	Fagales	Fagaceae	Castanopsis	Castanopsis fargesii	This	TW4b	TW4b
+SPA0283_031_001	GY006	litter	Taiwan	Nantou_Renai	24.091514	121.177087	plant	Fagales	Fagaceae	Quercus	Quercus stenophylloides	This	TW4a	TW4a
+SPA0551_008_001	IH003	fallen fruit	Vietnam	LamDong_LacDuong	12.181353	108.68388	plant	Fagales	Fagaceae	NA	NA	This	CHN-I	CHN-I
+SPA0624_002_001	KH015	NA	Philippines	Laguna_LosBaños	14.148212	121.231957	plant	Rosales	Moraceae	Artocarpus	Artocarpus blancoi	This	Philippines	Philippines
+LY0177_002_001	LY0177	lichen	Taiwan	Taichung_Heping	24.39797	121.3079	lichen	Peltigerales	Peltigeraceae	Peltigera	Peltigera sp.	SRP334167	TW4a	TW4a
+SPA0866_001_001	NH001	litter	China	Jiangxi_Jiujiang	29.545084	115.805342	plant	-	-	-	-	This	TW3a;Asian_Oak	TW3a;Asian_Oak
+SPA0883_001_001	NH021	litter	China	Zhejiang_Hangzhou	30.44147	119.622744	plant	-	-	-	-	This	CHN-X	CHN-X
+SPA1025_005_001	NH056	fallen fruit	Taiwan	Mt. Dongmao	24.17908	120.941321	plant	Fagales	Fagaceae	Quercus	Quercus glauca	This	TW4b_mosaic	Wild_TW
+SPA0947_003_001	OH113	litter	Philippines	Bukidnon_Quezon	7.770028	125.222346	plant	Fagales	Fagaceae	Lithocarpus	Lithocarpus sp.	This	THAI-II	THAI-II
+SPA0955_003_001	OH137	litter	Philippines	CamarinesSur_Libmanan	13.60263	123.01465	plant	Rosales	Urticaceae	Leucosyke	Leucosyke capitellata	This	CHN-X	CHN-X
+SP00001_008_001	PD01B	soil	Taiwan	Taipei_Daan	25.01695781	121.5372711	plant	Fagales	Fagaceae	Quercus	Quercus glauca	SRP334167	TW5	TW5
+SP00101_001_001	PD26A	fruit	Taiwan	Hualien_Fuli	23.142751	121.283268	plant	Rosales	Moraceae	Broussonetia	Broussonetia papyrifera	SRP334167	TW3a;Asian_Oak	TW3a;Asian_Oak
+SP00104_004_001	PD28A	bark	Taiwan	Taitung_Beinan	22.797075	121.035732	plant	Fagales	Fagaceae	Castanopsis	Castanopsis carlesii	This	TW3a;Asian_Oak	TW3a;Asian_Oak
+SP00127_001_001	PD31A	bark	Taiwan	Taitung_Dawu	22.322243	120.878276	plant	Laurales	Lauraceae	Cinnamomum	Cinnamomum osmophloeum	This	TW2a	TW2a
+SP00134_002_001	PD33A	leaf	Taiwan	Taitung_Daren	22.239032	120.854663	plant	Fagales	Fagaceae	Castanopsis	Castanopsis carlesii	SRP334167	TW2a	TW2a
+SP00016_001_001	PD41A	fruit	Taiwan	Island_Dongsha	20.701323	116.727952	plant	Pinales	Pinaceae	Pinus	NA	This	TW3a;Asian_Oak_mosaic	Wild_TW
+SPA0852_013_001	QH160	soil	Taiwan	Nantou_Yuchih	23.919001	120.881912	plant	Fagales	Fagaceae	Castanopsis	Castanopsis carlesii var. sessilis	This	TW3b	TW3b
+SP00171_003_001	RG06	fruit	Taiwan	Pingtung_Majia	22.649738	120.638448	plant	Ericales	Primulaceae	Ardisia	Ardisia cornudentata subsp. morrisonensis	This	TW3a;Asian_Oak	TW3a;Asian_Oak
+SP00191_003_001	RG08	bark	Taiwan	Pingtung_Fangliao	22.417089	120.704552	plant	Fagales	Fagaceae	Quercus	Quercus glauca	SRP334167	TW3a;Asian_Oak	TW3a;Asian_Oak
+SPA0023_010_001	S1	soil	Taiwan	Taipei_Nangang	25.045309	121.612676	plant	Ericales	Sapotaceae	Palaquium	Palaquium formosanum	SRP334167	TW2b	TW2b
+SPA0144_002_001	S17	leaf	Taiwan	NewTaipei_Xizhi	25.037074	121.676923	plant	Ericales	Primulaceae	Ardisia	Ardisia sieboldii	SRP334167	TW2b	TW2b
+SP00353_003_001	SR27	bark	Taiwan	Nantou_Yuchi	23.9231329	120.891646	plant	Fagales	Fagaceae	Castanopsis	Castanopsis fargesii	This	TW3b	TW3b
+SPA0189_007_001	XI02	bark	Taiwan	NewTaipei_Shiding	25.002877	121.687222	plant	Sapindales	Sapindaceae	Koelreuteria	Koelreuteria elegans subps. formosana	This	Philippines	Philippines
+ERR11580221	ERR11580221	Acidified milk 'nunu'	France	Normandy France	48.87987	0.17125	fermentation	NA	NA	NA	NA	ERP148425	Dairy	Dairy
+ERR11580225	ERR11580225	Camel Fermented Milk (dough)	Iran	Jandagh, Iran	34.04173	54.41537	fermentation	NA	NA	NA	NA	ERP148425	Dairy	Dairy
+ERR11580224	ERR11580224	Cow Fermented Milk (dough)	Iran	Roudbar, Iran	36.80971	49.4161	fermentation	NA	NA	NA	NA	ERP148425	Dairy	Dairy
+ERR11580223	ERR11580223	Cow Fermented Milk (dough)	Iran	Semnan, Iran	35.5767	53.39491	fermentation	NA	NA	NA	NA	ERP148425	Dairy	Dairy
+ERR11580209	ERR11580209	Lichen	Thailand	Chom Tong, Chiangmai, Thailand	18.37463	98.61606	lichen	NA	NA	NA	NA	ERP148425	TW3a;Asian_Oak	TW3a;Asian_Oak
+ERR11580199	ERR11580199	Lichen	Thailand	Phu Ruea, Loei, Thailand	17.38865	101.3885	lichen	NA	NA	NA	NA	ERP148425	TW3a;Asian_Oak_mosaic	Wild_TW
+ERR11580195	ERR11580195	Tree exudate	Thailand	Sangkhlaburi, Kanchanaburi, Thailand	15.15657	98.39649	plant	NA	NA	NA	NA	ERP148425	THAI-II	THAI-II
+ERR11580207	ERR11580207	Insect frass	Thailand	Nopphitam, Nakhon Si Thammarat, Thailand	8.72209	99.75066	insect	NA	NA	NA	NA	ERP148425	TW3a;Asian_Oak	TW3a;Asian_Oak
+ERR11580202	ERR11580202	Mushroom	Thailand	Khlong Thom, Krabi, Thailand	7.90049	99.23421	fungus	NA	NA	NA	NA	ERP148425	TW3a;Asian_Oak_mosaic	Wild_TW
+ERR11580194	ERR11580194	Lichen	Thailand	Tha Wang Pha, Nan, Thailand	19.10962	100.75488	lichen	NA	NA	NA	NA	ERP148425	CHN-X_mosaic	Wild_East_Asia_Basal
+ERR11580204	ERR11580204	Mushroom	Thailand	Khlong Lan, Kamphaeng Phet, Thailand	16.28542	99.23421	fungus	NA	NA	NA	NA	ERP148425	TW3a;Asian_Oak	TW3a;Asian_Oak
+ERR11580197	ERR11580197	Insect frass	Thailand	Tong Pha Phum, Kanchanaburi, Thailand	14.77273	98.74811	insect	NA	NA	NA	NA	ERP148425	THAI-II	THAI-II
+ERR11580212	ERR11580212	Coconut inflorescence sap	Thailand	Bang Khont, Sa Mut Songkhram, Thailand	13.47262	99.95768	plant	Arecales	Arecaceae	NA	NA	ERP148425	Philippines	Philippines
+ERR11580211	ERR11580211	Coconut inflorescence sap	Thailand	Mueang, Samut Songkhram, Thailand	13.41329	100.01359	plant	Arecales	Arecaceae	NA	NA	ERP148425	Philippines	Philippines
+ERR11580216	ERR11580216	Nypa palm fruit stem sap	Thailand	Pak Phanang, Nakhon Si Thammarat, Thailand	8.34421	100.18993	plant	Arecales	Arecaceae	Nypa	Nypa fruticans	ERP148425	Philippines	Philippines
+ERR11580215	ERR11580215	Nypa palm fruit stem sap	Thailand	Kantang, Trang, Thailand	7.40628	99.51729	plant	Arecales	Arecaceae	Nypa	Nypa fruticans	ERP148425	Philippines	Philippines
+ERR11580214	ERR11580214	Toddy palm inflorescence sap	Thailand	Ban Lat, Phetchaburi, Thailand	13.05535	99.83481	plant	Arecales	Arecaceae	NA	NA	ERP148425	Philippines	Philippines
+ERR11580213	ERR11580213	Toddy palm inflorescence sap	Thailand	Sankhaburi, Chai Nat, Thailand	15.01326	100.19273	plant	Arecales	Arecaceae	NA	NA	ERP148425	Philippines	Philippines
+ERR11580200	ERR11580200	Wood in decomposition (Hybrid S.cer x S.par)	Brazil	Parque Estadual do Rio Doce - MG	-19.75711	-42.63517	plant	NA	NA	NA	NA	ERP148425	Brazil_Wild.B1	Brazil_Wild.B1
+ERR11580201	ERR11580201	Wood in decomposition (Hybrid S.cer x S.par)	Brazil	Parque Nacional do Iguaçu - Foz do Iguaçu- PR	-25.61535	-54.47876	plant	NA	NA	NA	NA	ERP148425	Brazil_Wild.B1	Brazil_Wild.B1
+ERR1111486	ERR1111486	Tapirira guianensis	Brazil	Brazil, Riparian forest of Corrego, Buritizal	-12.3849291	-46.5933382	plant	Sapindales	Anacardiaceae	Tapirira	Tapirira guianensis	ERP013106	Wine_EU_AUS_mosaic	Wine_Clade
+ERR1111487	ERR1111487	Tapirira guianensis	Brazil	Brazil, Riparian forest of Corrego, Buritizal, Tocantins	-12.3849291	-46.5933382	plant	Sapindales	Anacardiaceae	Tapirira	Tapirira guianensis	ERP013106	Brazil_Wild.B1	Brazil_Wild.B1
+ERR1111490	ERR1111490	Mushroom	Brazil	Brazil, Serra da Prata, Mucajai, Roraima	-14.5746367	-50.4950294	fungi	NA	NA	NA	NA	ERP013106	Brazil_Wild.B1	Brazil_Wild.B1
+ERR1111493	ERR1111493	Tapirira guianensis	Brazil	Brazil, Bela Vista, Taquarucu	-24.783333	-51.083333	plant	Sapindales	Anacardiaceae	Tapirira	Tapirira guianensis	ERP013106	Wine_EU_AUS_mosaic	Wine_Clade
+ERR1111494	ERR1111494	soil	Brazil	Brazil, Amazonia	-24.783333	-51.083333	soil	NA	NA	NA	NA	ERP013106	TW3a;Asian_Oak_mosaic	Wild_TW
+ERR1111495	ERR1111495	Tapirira guianensis	Brazil	Brazil, Taguatinga, Tocantins	-10.2672778	-48.2070833	plant	Sapindales	Anacardiaceae	Tapirira	Tapirira guianensis	ERP013106	Brazil_Wild.B3	Brazil_Wild.B3
+ERR1111497	ERR1111497	Tapirira guianensis	Brazil	Brazil, Bela Vista, Taquarucu, Tocantins	-10.2672778	-48.2070833	plant	Sapindales	Anacardiaceae	Tapirira	Tapirira guianensis	ERP013106	Brazil_Wild.B1	Brazil_Wild.B1
+ERR1308587	ERR1308587	fruiting body	Taiwan	Dongpu_Sinyi Township_Nantou_Taiwan	23.561346	120.924377	fungus	Geastrales	Geastraceae	Geastrum	NA	ERP014555	TW4b	TW4b
+ERR1308588	ERR1308588	Wine	Argentina	Mendoza area_Argentina	-32.8894587	-68.8458386	fermentation	NA	NA	NA	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1308615	ERR1308615	Tree	Taiwan	Tuchih_Nantou_Taiwan	23.8753852	120.9187827	plant	Fabales	Fabaceae	Acacia	NA	ERP014555	Beer_Mixed_Origins	Beer_Mixed_Origins
+ERR1308661	ERR1308661	Wine	Spain	La Mancha_Spain	39.2795607	-3.097702	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308663	ERR1308663	rotten wood	China	China, Hainan, Qiongzhong: Wuzhi Mountain	18.8983333	109.7041666	plant	NA	NA	NA	NA	ERP014555	CHN-III	CHN-III
+ERR1308675	ERR1308675	Tree	Malaysia	Malaysia	4.210484	101.975766	plant	Arecales	Arecaceae	Eugeissona	NA	ERP014555	CHN-X_mosaic	Malaysian
+ERR1308682	ERR1308682	Soil	Taiwan	Sinyi_Nantou_Taiwan	23.6679756	120.9876321	soil	NA	NA	NA	NA	ERP014555	TW1	TW1
+ERR1308704	ERR1308704	Fruit	Taiwan	Taiwan	23.69781	120.960515	fruit	Russulales	Russulaceae	Russula	NA	ERP014555	TW4b	TW4b
+ERR1308705	ERR1308705	Flower	Slovakia	Male Levare_Slovakia	48.5019715	16.9704326	plant	Rosales	Rosaceae	Pyrus	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308709	ERR1308709	Human_clinical	USA	USA	41.87194	12.56738	clinical	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308713	ERR1308713	Fermentation	West Africa	West Africa	13.531665	-2.4604145	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS_mosaic	Wine_Clade
+ERR1308724	ERR1308724	Fermentation	Ghana	Ghana	7.946527	-1.023194	fermentation	NA	NA	NA	NA	ERP014555	TW3a;Asian_Oak_mosaic	Wild_TW
+ERR1308728	ERR1308728	Tree	France	Bordeaux_France	44.837789	-0.57918	plant	NA	NA	NA	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1308739	ERR1308739	Nature	USA	Pennsylvania_USA	41.2033216	-77.1945247	plant	Fagales	Fagaceae	Quercus	NA	ERP014555	North_American_Oak	North_American_Oak
+ERR1308745	ERR1308745	Distillery	China	China	35.86166	104.195397	fermentation	NA	NA	NA	NA	ERP014555	AF_Mantou7;Baijiu	AF_Mantou7;Baijiu
+ERR1308750	ERR1308750	Fermentation	Thailand	Thailand	15.870032	100.992541	fermentation	NA	NA	NA	NA	ERP014555	AF_Huangjiu	AF_Huangjiu
+ERR1308755	ERR1308755	Wine	Georgia	Georgia	42.315407	43.356892	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308760	ERR1308760	Fermentation	Laos	Laos	19.85627	102.495496	fermentation	NA	NA	NA	NA	ERP014555	AF_Huangjiu	AF_Huangjiu
+ERR1308764	ERR1308764	Nature	Slovenia	Slovenia	46.151241	14.995463	plant	Rosales	Rosaceae	Prunus	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308766	ERR1308766	Tree	Taiwan	Beinan_Taitung_Taiwan	22.7447427	121.0105733	plant	Rosales	Cannabaceae	Trema	NA	ERP014555	TW3a;Asian_Oak	TW3a;Asian_Oak
+ERR1308805	ERR1308805	Sake	Japan	Japan	36.204824	138.252924	fermentation	NA	NA	NA	NA	ERP014555	AF_Sake	AF_Sake
+ERR1308821	ERR1308821	NA	Slovenia	Ljubljana_Slovenia	46.0569465	14.5057515	NA	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308833	ERR1308833	Palm wine	Djibouti	Yoboki_Djibouti	11.5092056	42.1041441	fermentation	NA	NA	NA	NA	ERP014555	Philippines_mosaic	Wild_SouthEast_Asia
+ERR1308846	ERR1308846	Wine	Australia	Australia	-25.274398	133.775136	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308863	ERR1308863	Tree	Slovakia	Male Zaluzie_Slovakia	48.4359812	17.9863254	plant	Rosales	Rosaceae	Prunus	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1308953	ERR1308953	Tree	China	Dongling Mountain_Beijing_China	39.9041999	116.4073963	plant	Fagales	Fagaceae	Quercus	NA	ERP014555	CHN-IV	CHN-IV
+ERR1308963	ERR1308963	Palm wine	Burkina Faso	Burkina Faso	12.238333	-1.561593	fermentation	NA	NA	NA	NA	ERP014555	African_Palm_Wine	African_Palm_Wine
+ERR1308996	ERR1308996	Nature	China	Bawangling Mountain_Hainan province_China	19.121175	109.083477	plant	NA	NA	NA	NA	ERP014555	CHN-I	CHN-I
+ERR1309003	ERR1309003	Flower	Slovakia	Male levare_Slovakia	48.5019715	16.9704326	plant	Rosales	Rosaceae	Malus	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309012	ERR1309012	Tree	Ukraine	Kiev district_Ukraine	50.4501	30.5234	plant	Pinales	Pinaceae	Abies	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309052	ERR1309052	Soil	Hungary	Hungary	47.162494	19.5033041	soil	NA	NA	NA	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1309063	ERR1309063	Tree	Taiwan	Yuchih_Nantou_Taiwan	23.8753852	120.9187827	plant	Pinales	Podocarpaceae	Podocarpus	NA	ERP014555	Beer_Mixed_Origins	Beer_Mixed_Origins
+ERR1309087	ERR1309087	Fermentation	Vietnam	Saigon_South Vietnam	10.8230989	106.6296638	fermentation	NA	NA	NA	NA	ERP014555	AF_Huangjiu	AF_Huangjiu
+ERR1309143	ERR1309143	Soil	Taiwan	Jhuosi_Hualein_Taiwan	23.404007	121.2168466	soil	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309191	ERR1309191	Beer	Ivory Coast	Abengourou_Ivory Coast	6.7156982	-3.4801349	fermentation	NA	NA	NA	NA	ERP014555	African_Beer	African_Beer
+ERR1309231	ERR1309231	Palm wine	Nigeria	Nigeria	9.081999	8.675277	fermentation	Palm wine	NA	NA	NA	ERP014555	African_Palm_Wine	African_Palm_Wine
+ERR1309245	ERR1309245	Wine	Australia	McLaren Valley_Australia	-35.2210309	138.5461247	fermentation	Wine	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309246	ERR1309246	Wine	Spain	Los Cerros_La Mancha_Spain	39.5379744	-2.6983868	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309248	ERR1309248	Tree	Russia	Gelendzhik region_Caucasus_Russia	44.5620352	38.0904574	plant	Fagales	Fagaceae	Quercus	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1309349	ERR1309349	Nature	China	Wuzhi Mountain_Hainan province_China	18.8983333	109.7041666	plant	NA	NA	NA	NA	ERP014555	TW2a_mosaic	Wild_TW
+ERR1309352	ERR1309352	Tree	Portugal	Portugal_Castelo de Vide,	39.4142343	-7.4539635	plant	Fagales	Fagaceae	Quercus	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1309394	ERR1309394	Wine	Spain	Santa Cruz de los Canamos_La Mancha_Spain	38.6370127	-2.8658155	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309428	ERR1309428	Wine	Australia	Adelaide_Australia	-34.9284989	138.6007456	fermentation	NA	NA	NA	NA	ERP014555	Wine_EU_AUS	Wine_EU_AUS
+ERR1309447	ERR1309447	Palm wine	Ivory Coast	Ivory Coast	7.539989	-5.54708	fermentation	NA	NA	NA	NA	ERP014555	African_Palm_Wine	African_Palm_Wine
+ERR1309488	ERR1309488	Tree	Montenegro	Montenegro	42.8957072	18.9635949	plant	Fagales	Fagaceae	Quercus	NA	ERP014555	Mediterranean_Oak	Mediterranean_Oak
+ERR1309492	ERR1309492	Fermentation	Vietnam	Phan Thiet_South Vietnam	10.9581978	108.0503708	fermentation	NA	NA	NA	NA	ERP014555	AF_Huangjiu	AF_Huangjiu
+SRR7851822	SRR7851822	Persimmon\, planted tree	China	Anqiu, Shandong	36.478493	119.218978	plant	Ericales	Ebenaceae	Diospyros	NA	SRP161891	TW3a;Asian_Oak	TW3a;Asian_Oak
+SRR7851717	SRR7851717	Fermenting dough	China	Baotou, Inner Mongolia	40.657978	109.840313	fermentation	NA	NA	NA	NA	SRP161891	AF_Mantou1	AF_Mantou1
+SRR7851912	SRR7851912	Rotten wood\, primeval forest	China	Bawangling Mountain, Hainan	19.121175	109.083477	plant	NA	NA	NA	NA	SRP161891	CHN-I	CHN-I
+SRR7851883	SRR7851883	Fermented sorghum grain	China	Changshun, Guizhou	26.022636	106.4519	fermentation	NA	NA	NA	NA	SRP161891	AF_Mantou7;Baijiu	AF_Mantou7;Baijiu
+SRR7851734	SRR7851734	Fermenting dough	China	Chengcheng, Shanxi	26.022636	106.4519	fermentation	NA	NA	NA	NA	SRP161891	AF_Mantou7;Baijiu	AF_Mantou7;Baijiu
+SRR7851833	SRR7851833	Daqu (starter) of Qingkejiu (highland barley wine)	China	Dazi, Tibet	29.66941	91.349867	fermentation	NA	NA	NA	NA	SRP161891	AF_Qingkejiu	AF_Qingkejiu
+SRR7851909	SRR7851909	Rotten wood\, primeval forest	China	Diaoluo Mountain, Hainan	18.728495	109.830436	plant	NA	NA	NA	NA	SRP161891	CHN-I	CHN-I
+SRR7851688	SRR7851688	Bark of Quercus wutaishanica\, secondary forest	China	Dongling Mountain, Beijing	39.9041999	116.4073963	plant	Fagales	Fagaceae	Quercus	NA	SRP161891	CHN-IV	CHN-IV
+SRR7851769	SRR7851769	Bark\, primeval forest	China	Fanjing Mountain, Guizhou	27.9202778	108.6903	plant	NA	NA	NA	NA	SRP161891	CHN-X	CHN-X
+SRR7851836	SRR7851836	Daqu (starter) of Qingkejiu (highland barley wine)	China	Gongbujiangda, Tibet	29.88528	93.246077	fermentation	NA	NA	NA	NA	SRP161891	AF_Qingkejiu	AF_Qingkejiu
+SRR7851837	SRR7851837	Daqu (starter) of Qingkejiu (highland barley wine)	China	Gongga, Tibet	29.289455	90.98414	fermentation	NA	NA	NA	NA	SRP161891	AF_Qingkejiu	AF_Qingkejiu
+SRR7851768	SRR7851768	Bark\, primeval forest	China	Gutian Mountain, Zhejiang	29.255214	118.1545	plant	NA	NA	NA	NA	SRP161891	CHN-X	CHN-X
+SRR7851771	SRR7851771	Huangjiu (rice wine) starter with Fermented monascus	China	Gutian, Fujian	26.577837	118.746284	fermentation	NA	NA	NA	NA	SRP161891	AF_Mantou7;Baijiu_mosaic	Asian_Fermentation
+SRR7851801	SRR7851801	Rotten wood\, primeval forest	China	Jianfengling Mountain, Hainan	18.714954	108.875116	plant	NA	NA	NA	NA	SRP161891	CHN-III	CHN-III
+SRR7851937	SRR7851937	Pineapple\, orchard	China	Jinghong, Yunnan	22.000143	100.771678	plant	Poales	Bromeliaceae	Ananas	NA	SRP161891	TW3a;Asian_Oak	TW3a;Asian_Oak
+SRR7851834	SRR7851834	Daqu (starter) of Qingkejiu (highland barley wine)	China	Lasa, Tibet	29.654838	91.140552	fermentation	NA	NA	NA	NA	SRP161891	AF_Qingkejiu	AF_Qingkejiu
+SRR7851697	SRR7851697	Bark\, primeval forest	China	Nangong Mountain, Hubei	30.423713	110.990677	plant	NA	NA	NA	NA	SRP161891	CHN-X	CHN-X
+SRR7851838	SRR7851838	Daqu (starter) of Qingkejiu (highland barley wine)	China	Nielamu, Tibet	28.155186	85.982237	fermentation	NA	NA	NA	NA	SRP161891	AF_Qingkejiu	AF_Qingkejiu
+SRR7851905	SRR7851905	Bark of a Fagaceae tree\, primeval forest	China	Qinling Mountain, Shaanxi	34.21528	106.899555	plant	Fagales	Fagaceae	NA	NA	SRP161891	CHN-II	CHN-II
+SRR7851810	SRR7851810	Fermented sorghum grain	China	Qiqihaer, Heilongjiang	47.354348	123.918186	fermentation	NA	NA	NA	NA	SRP161891	AF_Mantou7;Baijiu	AF_Mantou7;Baijiu
+SRR7851906	SRR7851906	Fermented rice	China	Shaoxing, Zhejiang	29.995762	120.586109	fermentation	NA	NA	NA	NA	SRP161891	AF_Sake_mosaic	Asian_Fermentation
+SRR7851742	SRR7851742	Pear\, orchard	China	Shunyi, Beijing	40.130347	116.6547	fruit	NA	NA	NA	NA	SRP161891	AF_Mantou7;Baijiu	AF_Mantou7;Baijiu
+SRR7851790	SRR7851790	Bark of Quercus sp.\, planted tree	China	Taian, Shandong	36.200252	117.087614	plant	Fagales	Fagaceae	Quercus	NA	SRP161891	TW3a;Asian_Oak	TW3a;Asian_Oak
+SRR7851854	SRR7851854	Rotten wood\, secondary forest	China	Wuling Mountain, Beijing	40.634181	117.4043	plant	NA	NA	NA	NA	SRP161891	CHN-VIII	CHN-VIII
+SRR7851770	SRR7851770	Waxberry\, market	China	Wuyi Mountain,  Fujian	27.906438	117.893559	fruit	Fagales	Myricaceae	Myrica	NA	SRP161891	CHN-X	CHN-X
+SRR7851756	SRR7851756	Bark of Cyclobalanopsis nubium\, primeval forest	China	Wuyi Mountain, Fujian	27.906438	117.893559	plant	Fagales	Fagaceae	Cyclobalanopsis	NA	SRP161891	CHN-I	CHN-I
+SRR7851872	SRR7851872	Bark of a Fagaceae tree\, primeval forest	China	Wuzhi Mountain, Hainan	18.8983333	109.7041666	plant	Fagales	Fagaceae	NA	NA	SRP161891	TW2a_mosaic	Wild_TW
+SRR7851765	SRR7851765	Bark\, primeval forest	China	Xiangxiyuan, Shennongjia, Hubei	31.4708968	110.3944852	plant	NA	NA	NA	NA	SRP161891	CHN-X	CHN-X
+SRR7851807	SRR7851807	Bark of Pyrus sp.\, orchard	China	Yanbian, Jilin	42.909408	129.4718681	plant	Rosales	Amygdaloideae	Pyrus	NA	SRP161891	TW3a;Asian_Oak_mosaic	Wild_TW
+SRR7851747	SRR7851747	Active dry yeast	China	Yantai, Shandong	37.464539	121.447852	fermentation	NA	NA	NA	NA	SRP161891	Beer_Mixed_Origins_mosaic	Beer_Clade
+ERR3010121	ERR3010121	Olea fruit	Portugal	Portugal, Santarem, Macao	39.6043314	-7.9810845	plant	Lamiales	Oleaceae	Olea	NA	ERP112884	CHN-VIII	CHN-VIII
+ERR3010122	ERR3010122	table olive brine	Portugal	Portugal, Lisbon, Oeiras	38.6919934	-9.3118418	fermentation	NA	NA	NA	NA	ERP112884	Wine_EU_AUS	Wine_EU_AUS
+ERR3010124	ERR3010124	Olea fruit	Portugal	Portugal, Evora, Portel: Alqueva	38.2168409	-7.5388446	plant	Lamiales	Oleaceae	Olea	NA	ERP112884	CHN-VIII	CHN-VIII
+ERR3010125	ERR3010125	table olive brine	Portugal	Portugal, Lisbon, Lisbon	38.7222524	-9.1393366	fermentation	NA	NA	NA	NA	ERP112884	Wine_EU_AUS	Wine_EU_AUS
+ERR3010128	ERR3010128	table olive brine	Portugal	Portugal: Douro	41.5012768	-5.5122932	fermentation	NA	NA	NA	NA	ERP112884	Wine_EU_AUS	Wine_EU_AUS
+SRR7370132	SRR7370132	Beer	United Kingdom	United Kingdom: London	51.5073509	-0.1277583	fermentation	NA	NA	NA	NA	SRP150898	AF_Mantou1_mosaic	Asian_Fermentation
+SRR7370158	SRR7370158	Beer	Germany	Germany	51.165691	10.451526	fermentation	NA	NA	NA	NA	SRP150898	AF_Mantou1_mosaic	Asian_Fermentation
+SRR7370160	SRR7370160	Beer	Belgium	Belgium	50.503887	4.469936	fermentation	NA	NA	NA	NA	SRP150898	AF_Mantou1_mosaic	Asian_Fermentation
+SRR7370167	SRR7370167	NA	United Kingdom	United Kingdom	52.3555177	-4.469936	fermentation	NA	NA	NA	NA	SRP150898	AF_Mantou1_mosaic	Asian_Fermentation
+SRR7370169	SRR7370169	Coconout water	India	India	52.3555177	78.96288	fruit	NA	NA	NA	NA	SRP150898	Philippines	Philippines
+SRR7370193	SRR7370193	Castanea mollissima Bark	China	China:Shannxi\,Zhouzhi	33.986139	108.199198	plant	Fagles	Fagaceae	Castanea	Castanea mollissima	SRP150898	CHN-IV	CHN-IV
+SRR13487792	SRR13487792	NCYC	Malaysia	Malaysia: Telok Senangin, Wiens F, 2003	4.29953	100.57984	lab	NA	NA	NA	NA	SRP302495	Lab	Lab
